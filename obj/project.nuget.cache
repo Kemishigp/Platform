@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVIp0aCCJPv8H/RckL0LN24ayBTrzrrNUrjij4niJbAsYXAN6wT2IPD1FS2BHp6V9DO010qaDxwex8K4Otqh0w==",
+  "success": true,
+  "projectFilePath": "/Users/kemish/Documents/CODING_HW/CSE 210/raylib-hello-world/raylib.csproj",
+  "expectedPackageFiles": [
+    "/Users/kemish/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/Users/kemish/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
